@@ -1,0 +1,18 @@
+Project Name: form validation.
+How to run this Project
+
+1. Download and Unzip file on your local system copy folder.
+
+2. Put folder inside root directory
+
+Database Configuration
+
+Open phpmyadmin
+Create Database test
+Import database tbl_user.sql (available inside zip package)
+
+For User
+
+Open Your browser put inside browser “http://localhost/form validation”
+
+For More Details ---www.facebook.com/diponkordeydip/
